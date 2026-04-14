@@ -1,6 +1,6 @@
 # RISC-V Single-Cycle Processor
 
-Implementação em SystemVerilog de um processador RISC-V de ciclo único, baseada no Capítulo 4 de *Patterson & Hennessy — Computer Organization and Design (RISC-V Edition)*. Alvo: placa **DE2-115** (Intel Cyclone IV E, EP4CE115F29C7, 50 MHz).
+Implementação em SystemVerilog de um processador RISC-V de "ciclo único", baseada no Capítulo 4 de *Patterson & Hennessy — Computer Organization and Design (RISC-V Edition)*. Alvo: placa **DE2-115** (Intel Cyclone IV E, EP4CE115F29C7, 50 MHz).
 
 ---
 
